@@ -500,15 +500,6 @@ API calls are abstracted in service modules:
 7. Run `npm run lint` before pushing
 8. Keep components focused and small
 
-## Learn More
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [React Documentation](https://react.dev)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs)
-- [TanStack Query](https://tanstack.com/query)
-- [shadcn/ui](https://ui.shadcn.com)
-- [Tailwind CSS](https://tailwindcss.com/docs)
-
 ## License
 
 Copyright 2025 Mobifish
